@@ -7,7 +7,8 @@
 - 👀 I'm interested in web development and coding.
 - 🌱 I'm currently learning React Native to broaden my skills.
 - 💞️ I'm open to collaboration on React JS projects or any exciting web applications.
-- 📫 Reach me at umme.tooba56@gmail.com or connect with me on     				 LinkedIn: www.linkedin.com/in/umme-tooba-shakil-2bb678162
+- 📫 Reach me at umme.tooba56@gmail.com or connect with me on
+- LinkedIn: www.linkedin.com/in/umme-tooba-shakil-2bb678162
 
 ## My Tech Stack
 
